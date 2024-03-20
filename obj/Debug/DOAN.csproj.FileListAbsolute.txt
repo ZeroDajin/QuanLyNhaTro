@@ -1,0 +1,605 @@
+E:\EF\DOAN\bin\Debug\DOAN.exe.config
+E:\EF\DOAN\bin\Debug\DOAN.exe
+E:\EF\DOAN\bin\Debug\DOAN.pdb
+E:\EF\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+E:\EF\DOAN\obj\Debug\DOAN.csproj.SuggestedBindingRedirects.cache
+E:\EF\DOAN\obj\Debug\DOAN.Form1.resources
+E:\EF\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+E:\EF\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+E:\EF\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+E:\EF\DOAN\obj\Debug\DOAN.exe
+E:\EF\DOAN\obj\Debug\DOAN.pdb
+E:\EF\DOAN\obj\Debug\DOAN.Form2.resources
+E:\EF\DOAN\obj\Debug\DOAN.Form3.resources
+E:\EF\DOAN\obj\Debug\DOAN.Form4.resources
+E:\EF\DOAN\obj\Debug\DOAN.Home.resources
+E:\EF\DOAN\obj\Debug\DOAN.InfoKHACH.resources
+E:\EF\DOAN\obj\Debug\DOAN.HomeK.resources
+E:\EF\DOAN\obj\Debug\DOAN.dangkyK.resources
+E:\EF\DOAN\obj\Debug\DOAN.laylaiK.resources
+E:\EF\DOAN\obj\Debug\DOAN.TTtaikhoanAD.resources
+E:\EF\DOAN\obj\Debug\DOAN.TTTaikhoanKhach.resources
+E:\EF\DOAN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\EF\DOAN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\EF\DOAN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\EF\DOAN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\EF\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\EF\DOAN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\EF\DOAN\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\EF\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\EF\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\EF\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\EF\DOAN\bin\Debug\EnvDTE.dll
+E:\EF\DOAN\bin\Debug\stdole.dll
+E:\EF\DOAN\bin\Debug\Microsoft.MSXML.dll
+E:\EF\DOAN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\EF\DOAN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\EF\DOAN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\EF\DOAN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\EF\DOAN\obj\Debug\DOAN.rpphongtro.resources
+E:\EF\DOAN\obj\Debug\DOAN.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\DOAN.exe
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\DOAN.pdb
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\EnvDTE.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\stdole.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.dangkyK.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.Form2.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.rpphongtro.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.exe
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.pdb
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.trangChu.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.dangKyAd.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.matKhauAd.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.phongTro.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.khachNo.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.danhSachKhach.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.matKhauKhach.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.danhSachTKAd.resources
+C:\Users\DELL\OneDrive\Desktop\DOAN\obj\Debug\DOAN.danhSachTKKhach.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe.config
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.pdb
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\EnvDTE.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\stdole.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangkyK.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.trangChu.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Form2.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangKyAd.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauAd.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.phongTro.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.khachNo.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachKhach.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauKhach.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.rpphongtro.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKAd.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKKhach.resources
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.exe
+C:\Users\DELL\OneDrive\Desktop\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.pdb
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe.config
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.pdb
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\EnvDTE.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\stdole.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.AssemblyReference.cache
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.SuggestedBindingRedirects.cache
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangkyK.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.trangChu.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Form2.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangKyAd.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauAd.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.phongTro.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.khachNo.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachKhach.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauKhach.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Properties.Resources.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.rpphongtro.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKAd.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKKhach.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.GenerateResource.cache
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CopyComplete
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.exe
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.pdb
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe.config
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.pdb
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\EnvDTE.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\stdole.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.MSXML.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.AssemblyReference.cache
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.SuggestedBindingRedirects.cache
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangkyK.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.trangChu.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Form2.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangKyAd.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauAd.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.phongTro.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.khachNo.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachKhach.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauKhach.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Properties.Resources.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.rpphongtro.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKAd.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKKhach.resources
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.GenerateResource.cache
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CopyComplete
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.exe
+E:\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.pdb
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe.config
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.pdb
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\EnvDTE.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\stdole.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangkyK.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.trangChu.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Form2.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangKyAd.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauAd.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.phongTro.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.khachNo.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachKhach.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauKhach.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.rpphongtro.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKAd.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKKhach.resources
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.exe
+C:\Users\DELL\OneDrive\Desktop\BCWD\Nhom8_QLNT (1)\Nhom8_QLNT\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.pdb
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe.config
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.pdb
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\EnvDTE.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\stdole.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.AssemblyReference.cache
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.SuggestedBindingRedirects.cache
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangkyK.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.trangChu.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Form2.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangKyAd.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauAd.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.phongTro.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.khachNo.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachKhach.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauKhach.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Properties.Resources.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.rpphongtro.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKAd.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKKhach.resources
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.GenerateResource.cache
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CopyComplete
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.exe
+D:\Zero\Study\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.pdb
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe.config
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.exe
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\DOAN.pdb
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\EnvDTE.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\stdole.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\EnvDTE.xml
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.AssemblyReference.cache
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangkyK.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.trangChu.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Form2.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.dangKyAd.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauAd.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.phongTro.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.khachNo.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachKhach.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.matKhauKhach.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.Properties.Resources.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.rpphongtro.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKAd.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.danhSachTKKhach.resources
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.GenerateResource.cache
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.csproj.CopyComplete
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.exe
+E:\Zero\Study\Archive\lap trinh moi truong Windows\Ly Thuyet\Do an\đồ án C#\Nhom8_QuanLyNhaTro\obj\Debug\DOAN.pdb
